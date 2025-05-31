@@ -5,5 +5,5 @@ Demo for git and github.
 Yash kumar
 
 # Student
-Delta Student
+Delta Student.
 
